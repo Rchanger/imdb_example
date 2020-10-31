@@ -3,4 +3,4 @@ datadir = "data/"
 jwtSecret = "test123487113"
 minJWTLength = 32
 timeOutInSeconds = 10
-mongoServer= "192.168.1.5:27017"
+mongoServer= "localhost:27017"
