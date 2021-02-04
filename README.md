@@ -19,3 +19,5 @@
 3. Delete - http://localhost:3032/movies/{id} - requires authorization(bearer) token
 4. Patch - http://localhost:3032/movies/{id} - requires authorization(bearer) token and allows only score and popularity field changes.
 5. Post - http://localhost:3032/auth/login
+
+Changes added
